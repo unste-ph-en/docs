@@ -15,7 +15,7 @@ useCase:
 Highly trusted applications can use this flow to access APIs. In this flow the end-user is asked to fill in credentials (username/password), typically using an interactive form. This information is sent to the backend and from there to Auth0.
 
 You should use this flow **only if** the following apply:
-- The application is absolutely trusted with the user's credentials. For [Single-Page Applications](/flows/concepts/implicit) and [Native/Mobile Apps](/flows/concepts/auth-code-pkce) we recommend using web flows instead.
+- The application is absolutely trusted with the user's credentials. For [Single-Page Applications and Native/Mobile Apps](/flows/concepts/auth-code-pkce) we recommend using web flows instead.
 - Using a redirect-based flow is not possible. If this is not the case and redirects are possible in your application, you should use the [Authorization Code Flow](/flows/concepts/auth-code) instead.
 
 ::: note

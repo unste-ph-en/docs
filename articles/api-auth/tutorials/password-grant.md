@@ -16,7 +16,7 @@ useCase:
 In this tutorial, we will go through the steps required to implement the Resource Owner Password Grant.
 
 You should use this flow **only if** the following apply:
-- The application is absolutely trusted with the user's credentials. For [Single-Page Apps](/flows/concepts/implicit) and [Native/Mobile Apps](/flows/concepts/auth-code-pkce), we recommend using web flows instead.
+- The application is absolutely trusted with the user's credentials. For [Single-Page Apps and Native/Mobile Apps](/flows/concepts/auth-code-pkce), we recommend using web flows instead.
 - Using a redirect-based flow is not possible. If this is not the case and redirects are possible in your application, you should use the [Authorization Code Flow](/flows/concepts/auth-code) instead.
 
 ## Before you start
