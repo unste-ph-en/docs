@@ -57,8 +57,6 @@ The [Auth0 Single-Page App SDK](/libraries/auth0-spa-js) and [Single-Page Quicks
 
 Finally, you can follow our tutorials to use our API endpoints to [Add Login Using the Implicit Flow](/flows/guides/implicit/add-login-implicit).
 
-:::
-
 ## Keep reading
 
 - Auth0 offers many ways to personalize your user's login experience using [rules](/rules) and [hooks](/hooks).
