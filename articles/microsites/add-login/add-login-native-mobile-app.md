@@ -55,7 +55,7 @@ While we strongly recommend that you use our hosted universal login page, if you
 ::: guides
   * [Auth0 Mobile/Native App Quickstarts](/quickstart/native)
   * [Add login using the Authorization Code Flow with PKCE](/flows/guides/auth-code-pkce/add-login-auth-code-pkce)
-  * [Customize the hosted login page](/hosted-pages/login#how-to-customize-your-login-page)
+  * [Customize the hosted login page](/universal-login#simple-customization)
 :::
 
 ::: references
