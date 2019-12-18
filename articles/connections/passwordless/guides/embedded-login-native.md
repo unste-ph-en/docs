@@ -21,7 +21,7 @@ Passwordless authentication for Native applications consist of two steps:
 Below we list a few code snippets that can be used to call these API endpoints for different scenarios. Auth0 SDKs for native technologies (Android, iOS) have been updated to support these endpoints:
 
 - [Lock Android Passwordless](/libraries/lock-android/passwordless)
-- [Lock iOS Passwordless](libraries/lock-ios/passwordless)
+- [Lock iOS Passwordless](/libraries/lock-ios/passwordless)
 - [Auth0.Swift Passwordless](/libraries/auth0-swift/passwordless)
 - [Auth0.Android Passwordless](libraries/auth0-android/passwordless)
 
