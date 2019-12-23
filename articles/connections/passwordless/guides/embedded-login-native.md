@@ -103,6 +103,7 @@ Below we list a few code snippets that can be used to call these API endpoints f
   }
 }
 ```
+
 Auth0's SDKs for mobile platforms (Android, iOS) have been updated to support these endpoints:
 
 - [Lock Android Passwordless](/libraries/lock-android/passwordless)
